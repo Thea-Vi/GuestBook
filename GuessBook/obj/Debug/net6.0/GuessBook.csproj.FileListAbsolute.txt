@@ -1,0 +1,15 @@
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\bin\Debug\net6.0\GuessBook.exe
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\bin\Debug\net6.0\GuessBook.deps.json
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\bin\Debug\net6.0\GuessBook.runtimeconfig.json
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\bin\Debug\net6.0\GuessBook.dll
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\bin\Debug\net6.0\GuessBook.pdb
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.AssemblyInfoInputs.cache
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.AssemblyInfo.cs
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.dll
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\refint\GuessBook.dll
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.pdb
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\GuessBook.genruntimeconfig.cache
+C:\Users\theav\source\repos\GuessBookApp\GuessBook\obj\Debug\net6.0\ref\GuessBook.dll
